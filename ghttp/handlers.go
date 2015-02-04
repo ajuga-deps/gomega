@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	. "github.com/onsi/gomega"
-	"github.com/onsi/gomega/types"
+	. "github.com/ajuga-deps/gomega"
+	"github.com/ajuga-deps/gomega/types"
 )
 
 //CombineHandler takes variadic list of handlers and produces one handler

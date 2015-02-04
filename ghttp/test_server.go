@@ -113,7 +113,7 @@ import (
 	"regexp"
 	"sync"
 
-	. "github.com/onsi/gomega"
+	. "github.com/ajuga-deps/gomega"
 )
 
 func new() *Server {

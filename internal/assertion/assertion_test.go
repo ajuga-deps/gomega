@@ -3,10 +3,10 @@ package assertion_test
 import (
 	"errors"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/internal/assertion"
-	"github.com/onsi/gomega/internal/fakematcher"
+	. "github.com/ajuga-deps/ginkgo"
+	. "github.com/ajuga-deps/gomega"
+	. "github.com/ajuga-deps/gomega/internal/assertion"
+	"github.com/ajuga-deps/gomega/internal/fakematcher"
 )
 
 var _ = Describe("Assertion", func() {

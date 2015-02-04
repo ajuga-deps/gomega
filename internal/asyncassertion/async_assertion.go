@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/onsi/gomega/types"
+	"github.com/ajuga-deps/gomega/types"
 )
 
 type AsyncAssertionType uint

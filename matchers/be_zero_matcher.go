@@ -1,7 +1,7 @@
 package matchers
 
 import (
-	"github.com/onsi/gomega/format"
+	"github.com/ajuga-deps/gomega/format"
 	"reflect"
 )
 

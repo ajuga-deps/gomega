@@ -11,8 +11,8 @@ import (
 	"sync"
 	"syscall"
 
-	. "github.com/onsi/gomega"
-	"github.com/onsi/gomega/gbytes"
+	. "github.com/ajuga-deps/gomega"
+	"github.com/ajuga-deps/gomega/gbytes"
 )
 
 const INVALID_EXIT_CODE = 254

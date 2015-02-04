@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/onsi/gomega/format"
+	"github.com/ajuga-deps/gomega/format"
 )
 
 //Objects satisfying the BufferProvider can be used with the Say matcher.

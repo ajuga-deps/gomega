@@ -18,10 +18,10 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/onsi/gomega/internal/assertion"
-	"github.com/onsi/gomega/internal/asyncassertion"
-	"github.com/onsi/gomega/internal/testingtsupport"
-	"github.com/onsi/gomega/types"
+	"github.com/ajuga-deps/gomega/internal/assertion"
+	"github.com/ajuga-deps/gomega/internal/asyncassertion"
+	"github.com/ajuga-deps/gomega/internal/testingtsupport"
+	"github.com/ajuga-deps/gomega/types"
 )
 
 const GOMEGA_VERSION = "1.0"

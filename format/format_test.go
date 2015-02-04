@@ -3,10 +3,10 @@ package format_test
 import (
 	"fmt"
 	"strings"
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/format"
-	"github.com/onsi/gomega/types"
+	. "github.com/ajuga-deps/ginkgo"
+	. "github.com/ajuga-deps/gomega"
+	. "github.com/ajuga-deps/gomega/format"
+	"github.com/ajuga-deps/gomega/types"
 )
 
 //recursive struct

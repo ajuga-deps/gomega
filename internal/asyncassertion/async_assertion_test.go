@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/internal/asyncassertion"
+	. "github.com/ajuga-deps/ginkgo"
+	. "github.com/ajuga-deps/gomega"
+	. "github.com/ajuga-deps/gomega/internal/asyncassertion"
 )
 
 var _ = Describe("Async Assertion", func() {

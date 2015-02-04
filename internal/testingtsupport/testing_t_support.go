@@ -5,7 +5,7 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/onsi/gomega/types"
+	"github.com/ajuga-deps/gomega/types"
 )
 
 type gomegaTestingT interface {

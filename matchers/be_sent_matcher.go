@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/onsi/gomega/format"
+	"github.com/ajuga-deps/gomega/format"
 )
 
 type BeSentMatcher struct {
